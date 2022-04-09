@@ -1,0 +1,32 @@
+.child1{
+    width:100px;
+    height:100px;
+    background:maroon;
+    border:1px solid blue;
+    position:relative;
+    left:250px;
+   }
+  .child2{
+    width:100px;
+    height:150px;
+    background:red;
+    position:relative;
+    left:150px;
+  }
+  .child3{
+    width:200px;
+    height:150px;
+    background:blue;
+    position:relative;
+    left:250px;
+    bottom:150px;
+  }
+  .child4{
+    width:100px;
+    height:50px;
+    background:aqua;
+    border:0.5px solid black;
+    position:relative;
+    bottom:250px;
+    left:80px;
+  }
